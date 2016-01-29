@@ -3,4 +3,7 @@ Create web mapping using ArcGIS Server or Online account is a popular choice. Th
 
 This demo project using ArcGIS Javascript API, modified proj4js ect JavaScript libraries and customized JS functions all need using AMD style.
 
+![img2](https://cloud.githubusercontent.com/assets/6053471/12682029/c51e4894-c66e-11e5-9279-f01125a693f0.png)
+![img3](https://cloud.githubusercontent.com/assets/6053471/12682033/c9098bb2-c66e-11e5-962f-2a4375a3e753.png)
+
 
